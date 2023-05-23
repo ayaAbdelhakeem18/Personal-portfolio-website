@@ -17,7 +17,7 @@ export default function Home() {
           <h2 className="bold_para headingText animate__animated animate__fadeInDown">{content.header.role}</h2>
           <p className="paragraphtext animate__animated animate__slow animate__fadeInRight">{content.header.description}</p>
         </div>
-        <div><button className='btn'><a href="#section2">{content.header.button}</a></button></div>
+        <div><button className='btn'><a href="mailto:aya.abdelhakeem18@gmail.com?subject=subject text">{content.header.button}</a></button></div>
        </div>
        </div>
     </div>
