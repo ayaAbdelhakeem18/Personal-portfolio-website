@@ -47,7 +47,7 @@ const content={
         },
         
         button:
-        "Contact me"
+        "CONTACT ME"
     },
 
 //Second section that represents info about your work    
