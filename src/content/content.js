@@ -47,7 +47,7 @@ const content={
         },
         
         button:
-        "get to know my art"
+        "Contact me"
     },
 
 //Second section that represents info about your work    
