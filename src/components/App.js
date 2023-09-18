@@ -1,4 +1,5 @@
 import '../styling/App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "../styling/screen-sizes.css";
 import Navbar from "./Nav";
 import Home from "./Home";
